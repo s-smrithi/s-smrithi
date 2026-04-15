@@ -52,7 +52,7 @@
 ## 📫 Connect with Me
 - 📧 Email: smrithi06.s@gmail.com  
 - 💼 LinkedIn: (Add your link here)  
-- 💻 GitHub: https://github.com/yourusername  
+- 💻 GitHub:https://github.com/s-smrithi 
 
 ---
 
