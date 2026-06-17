@@ -51,7 +51,7 @@
 
 ## 📫 Connect with Me
 - 📧 Email: smrithi06.s@gmail.com  
-- 💼 LinkedIn: (Add your link here)  
+- 💼 LinkedIn:https://www.linkedin.com/in/smrithi-s06/ 
 - 💻 GitHub:https://github.com/s-smrithi 
 
 ---
